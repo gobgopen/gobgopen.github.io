@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>37. Belgrade Open</title>
+  <link href="http://gobgopen.github.io//atom.xml" rel="self"/>
+  <link href="http://gobgopen.github.io/"/>
+  <updated>2014-10-23T10:44:21.213Z</updated>
+  <id>http://gobgopen.github.io/</id>
+  <author>
+    <name>mihajlo</name>
+    <email>mihajlo.andjelic@gmail.com</email>
+  </author>
+
+  
+    <entry>
+      <title>Slike</title>
+      <link href="http://gobgopen.github.io//posts/slike"/>
+      <updated>2014-10-23T09:58:15.000Z</updated>
+      <id>http://gobgopen.github.io//posts/slike</id>
+      <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;!-- Meta--&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot;&gt;
+    &lt;title&gt;Slike | 37. Belgrade Open&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Tornament web site&quot;&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;go, baduk, weiqi, belgrade, belgrade open, beograd, beograd open &quot;&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;mihajlo&quot;&gt;&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.69.0&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+    &lt;!-- Icons--&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;/ico/kamencici.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;/ico/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;/ico/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;/ico/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;/ico/apple-touch-icon-57-precomposed.png&quot;&gt;
+    &lt;!--if lt IE 9
+    script(async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;)
+    
+    --&gt;
+    &lt;!-- Styles--&gt;&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/components-bootstrap/css/bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;!-- Markup--&gt;
+    &lt;nav class=&quot;navbar navbar-default navbar-fixed-top&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;navbar-header&quot;&gt;
+          &lt;button type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#bs-example-navbar-collapse-1&quot; class=&quot;navbar-toggle&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;Toggle navigation&lt;/span&gt;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&lt;span class=&quot;icon-bar&quot;&gt; &lt;/span&gt;&lt;/button&gt;&lt;a href=&quot;/&quot; class=&quot;navbar-brand&quot;&gt;Welcome&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div id=&quot;bs-example-navbar-collapse-1&quot; class=&quot;collapse navbar-collapse&quot;&gt;
+          &lt;ul class=&quot;nav navbar-nav&quot;&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue&quot;&gt;&lt;a href=&quot;/pages/venue&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;&lt;/li&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/rules&quot;&gt;&lt;a href=&quot;/pages/rules&quot; property=&quot;dc:title&quot;&gt;Rules&lt;/a&gt;&lt;/li&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accomodation&quot;&gt;&lt;a href=&quot;/pages/accomodation&quot; property=&quot;dc:title&quot;&gt;Accomodation&lt;/a&gt;&lt;/li&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/results&quot;&gt;&lt;a href=&quot;/pages/results&quot; property=&quot;dc:title&quot;&gt;Results&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;ul role=&quot;menu&quot; class=&quot;nav navbar-nav navbar-right dropdown-menu&quot;&gt; 
+          &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue&quot;&gt;&lt;a href=&quot;/pages/venue&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;&lt;/li&gt;
+          &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/rules&quot;&gt;&lt;a href=&quot;/pages/rules&quot; property=&quot;dc:title&quot;&gt;Rules&lt;/a&gt;&lt;/li&gt;
+          &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accomodation&quot;&gt;&lt;a href=&quot;/pages/accomodation&quot; property=&quot;dc:title&quot;&gt;Accomodation&lt;/a&gt;&lt;/li&gt;
+          &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/results&quot;&gt;&lt;a href=&quot;/pages/results&quot; property=&quot;dc:title&quot;&gt;Results&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/div&gt;
+    &lt;/nav&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+  &lt;h1&gt;Slike&lt;/h1&gt;
+  &lt;div class=&quot;post-content&quot;&gt;
+&lt;Ovde&gt;mozete videti slike&lt;/Ovde&gt;&lt;/div&gt;
+&lt;/article&gt;&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'bgopen';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://gobgopen.github.io//posts/slike';
+		window.disqus_identifier = 'posts-slike';
+		window.disqus_title = 'Slike';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;footer&gt;
+&lt;/footer&gt;&lt;/section&gt;
+      &lt;hr&gt;
+      &lt;footer&gt;
+        &lt;div&gt;© Go Beograd 2014&lt;/div&gt;
+        &lt;Thu Oct 23 2014 12:44:21 GMT+0200 (CEST)&gt;&lt;/Thu Oct 23 2014 12:44:21 GMT+0200 (CEST)&gt;
+      &lt;/footer&gt;
+    &lt;/div&gt;
+    &lt;!-- Scripts--&gt;&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery/dist/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/components-bootstrap/js/bootstrap.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</content>
+    </entry>
+  
+    <entry>
+      <title>Utisci sa takmičenja</title>
+      <link href="http://gobgopen.github.io//posts/utisci"/>
+      <updated>2014-10-23T09:38:05.000Z</updated>
+      <id>http://gobgopen.github.io//posts/utisci</id>
+      <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;!-- Meta--&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot;&gt;
+    &lt;title&gt;Utisci sa takmičenja | 37. Belgrade Open&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Tornament web site&quot;&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;go, baduk, weiqi, belgrade, belgrade open, beograd, beograd open &quot;&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;mihajlo&quot;&gt;&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.69.0&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+    &lt;!-- Icons--&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;/ico/kamencici.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;/ico/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;/ico/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;/ico/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;/ico/apple-touch-icon-57-precomposed.png&quot;&gt;
+    &lt;!--if lt IE 9
+    script(async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;)
+    
+    --&gt;
+    &lt;!-- Styles--&gt;&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/components-bootstrap/css/bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;!-- Markup--&gt;
+    &lt;nav class=&quot;navbar navbar-default navbar-fixed-top&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;navbar-header&quot;&gt;
+          &lt;button type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#bs-example-navbar-collapse-1&quot; class=&quot;navbar-toggle&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;Toggle navigation&lt;/span&gt;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&lt;span class=&quot;icon-bar&quot;&gt; &lt;/span&gt;&lt;/button&gt;&lt;a href=&quot;/&quot; class=&quot;navbar-brand&quot;&gt;Welcome&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div id=&quot;bs-example-navbar-collapse-1&quot; class=&quot;collapse navbar-collapse&quot;&gt;
+          &lt;ul class=&quot;nav navbar-nav&quot;&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue&quot;&gt;&lt;a href=&quot;/pages/venue&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;&lt;/li&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/rules&quot;&gt;&lt;a href=&quot;/pages/rules&quot; property=&quot;dc:title&quot;&gt;Rules&lt;/a&gt;&lt;/li&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accomodation&quot;&gt;&lt;a href=&quot;/pages/accomodation&quot; property=&quot;dc:title&quot;&gt;Accomodation&lt;/a&gt;&lt;/li&gt;
+            &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/results&quot;&gt;&lt;a href=&quot;/pages/results&quot; property=&quot;dc:title&quot;&gt;Results&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;ul role=&quot;menu&quot; class=&quot;nav navbar-nav navbar-right dropdown-menu&quot;&gt; 
+          &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue&quot;&gt;&lt;a href=&quot;/pages/venue&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;&lt;/li&gt;
+          &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/rules&quot;&gt;&lt;a href=&quot;/pages/rules&quot; property=&quot;dc:title&quot;&gt;Rules&lt;/a&gt;&lt;/li&gt;
+          &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accomodation&quot;&gt;&lt;a href=&quot;/pages/accomodation&quot; property=&quot;dc:title&quot;&gt;Accomodation&lt;/a&gt;&lt;/li&gt;
+          &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/results&quot;&gt;&lt;a href=&quot;/pages/results&quot; property=&quot;dc:title&quot;&gt;Results&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/div&gt;
+    &lt;/nav&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+  &lt;h1&gt;Utisci sa takmičenja&lt;/h1&gt;
+  &lt;div class=&quot;post-content&quot;&gt;
+&lt;Nov&gt;prostor&lt;/Nov&gt;&lt;/div&gt;
+&lt;/article&gt;&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'bgopen';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://gobgopen.github.io//posts/utisci';
+		window.disqus_identifier = 'posts-utisci';
+		window.disqus_title = 'Utisci sa takmičenja';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;footer&gt;
+&lt;/footer&gt;&lt;/section&gt;
+      &lt;hr&gt;
+      &lt;footer&gt;
+        &lt;div&gt;© Go Beograd 2014&lt;/div&gt;
+        &lt;Thu Oct 23 2014 12:44:21 GMT+0200 (CEST)&gt;&lt;/Thu Oct 23 2014 12:44:21 GMT+0200 (CEST)&gt;
+      &lt;/footer&gt;
+    &lt;/div&gt;
+    &lt;!-- Scripts--&gt;&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery/dist/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/components-bootstrap/js/bootstrap.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</content>
+    </entry>
+  
+</feed>
