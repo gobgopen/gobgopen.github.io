@@ -3,7 +3,7 @@
   <title>37. Belgrade Open</title>
   <link href="http://gobgopen.github.io//atom.xml" rel="self"/>
   <link href="http://gobgopen.github.io/"/>
-  <updated>2014-10-23T10:44:21.213Z</updated>
+  <updated>2014-10-23T11:19:59.187Z</updated>
   <id>http://gobgopen.github.io/</id>
   <author>
     <name>mihajlo</name>
@@ -105,7 +105,7 @@
       &lt;hr&gt;
       &lt;footer&gt;
         &lt;div&gt;© Go Beograd 2014&lt;/div&gt;
-        &lt;Thu Oct 23 2014 12:44:21 GMT+0200 (CEST)&gt;&lt;/Thu Oct 23 2014 12:44:21 GMT+0200 (CEST)&gt;
+        &lt;Thu Oct 23 2014 13:19:59 GMT+0200 (CEST)&gt;&lt;/Thu Oct 23 2014 13:19:59 GMT+0200 (CEST)&gt;
       &lt;/footer&gt;
     &lt;/div&gt;
     &lt;!-- Scripts--&gt;&lt;script &gt;(function(){
@@ -252,7 +252,7 @@ var inject = function(){
       &lt;hr&gt;
       &lt;footer&gt;
         &lt;div&gt;© Go Beograd 2014&lt;/div&gt;
-        &lt;Thu Oct 23 2014 12:44:21 GMT+0200 (CEST)&gt;&lt;/Thu Oct 23 2014 12:44:21 GMT+0200 (CEST)&gt;
+        &lt;Thu Oct 23 2014 13:19:59 GMT+0200 (CEST)&gt;&lt;/Thu Oct 23 2014 13:19:59 GMT+0200 (CEST)&gt;
       &lt;/footer&gt;
     &lt;/div&gt;
     &lt;!-- Scripts--&gt;&lt;script &gt;(function(){
